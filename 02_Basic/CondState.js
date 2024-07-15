@@ -29,3 +29,14 @@ else if(age > 60){
 else{
     console.log("You are an adult")
     }
+
+//MDN Documentation    developer.mozilla.org
+//switch 
+
+// alert("Hello!")  //one time pop up
+//we can use alert using html
+ 
+//  let name= prompt("Hello!")
+//  console.log(name)
+ //we can take user input using prompt and it will aslo display the msg
+ 
